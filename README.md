@@ -157,5 +157,21 @@ Frontend Engineer
 
 ---
 
-⭐ If you like this project, consider giving the repository a star!
+# 🔐 Project 03 — Show / Hide Password
 
+A beginner-friendly **Show / Hide Password** project built using **HTML, CSS, and JavaScript**.
+
+This is **Project #03** of my **100 Projects Challenge**, where I’m building 100 projects to improve my frontend development and JavaScript skills through hands-on practice.
+
+---
+
+## ✨ Features
+
+* 🔐 Password input field
+* 👁️ Show password
+* 🙈 Hide password
+* ⚡ Toggle password visibility with a click
+* 📱 Responsive design
+* 🎯 Simple and beginner-friendly UI
+
+---
