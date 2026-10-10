@@ -1,0 +1,95 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.container{
+	width: 100%;
+	height: 100vh;
+	background: skyblue;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 20px;
+}
+.input-section{
+	width: 80%;
+	height: auto;
+	background: transparent;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.input-section h2{
+	color: white;
+	font-family: sans-serif;
+	font-weight: 700;
+}
+.input-section div{
+   width: 100%;
+   display: flex;
+   padding: 10px;
+   align-items: center;
+   justify-content: center;
+   gap: 10px;
+}
+.input-section input{
+	width: 80%;
+	padding: 10px;
+	outline: none;
+	border: none;
+	border-radius: 10px;
+	color: white;
+	background: transparent;
+	border: 1px solid black;
+}
+.input-section button{
+	width: 20%;
+	outline: none;
+	border: none;
+	background: transparent;
+	color: white;
+	font-weight: 700;
+	font-size: 30px;
+	cursor: pointer;
+}
+.item-section{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.item-section ul{
+	padding: 10px;
+	list-style-type: none;
+	width: 80%;
+   display: flex;
+	flex-direction: column;
+	height: auto;
+	gap: 10px;
+	/*background: white;*/
+}
+.item-section ul li{
+	width: 100%;
+   height: 30px;
+   padding: 20px;
+   border-radius: 5px;
+	display: flex;
+	color: white;
+	align-items: center;
+	background: blueviolet;
+	justify-content: space-between;
+}
+.item-section ul li button{
+	outline: none;
+	border: none;
+	background: transparent;
+	color: white;
+	padding: 10px;
+	border-radius: 10px;
+	cursor: pointer;
+}
